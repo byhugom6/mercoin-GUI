@@ -1,4 +1,4 @@
 
-set(CN_PROJECT_NAME "mercoin")
+set(CN_PROJECT_NAME "mercoin-gui")
 set(CN_CURRENCY_DISPLAY_NAME "MerCoin")
 set(CN_CURRENCY_TICKER "MRN")
